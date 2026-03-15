@@ -18,18 +18,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BubbleSort.c">
+    <ClCompile Include="bubble_sort.c">
       <Filter>Source Files\Sort</Filter>
     </ClCompile>
-    <ClCompile Include="SelectionSort.c">
+    <ClCompile Include="selection_sort.c">
       <Filter>Source Files\Sort</Filter>
     </ClCompile>
-    <ClCompile Include="Main.c">
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="advanced_bubble_sort.c">
+      <Filter>Source Files\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="insertion_sort.c">
+      <Filter>Source Files\Sort</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sort.h">
+    <ClInclude Include="sort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

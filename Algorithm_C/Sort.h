@@ -1,4 +1,5 @@
 #pragma once
 
-void bubbleSort(int arr[], int n);
-void selectionSort(int arr[], int n);
+void bubble_sort(int arr[], int n);
+void selection_sort(int arr[], int n);
+void advanced_bubble_sort(int arr[], int n);

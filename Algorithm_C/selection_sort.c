@@ -1,6 +1,6 @@
-#include "Sort.h"
+#include "sort.h"
 
-void selectionSort(int arr[], int n) {
+void selection_sort(int arr[], int n) {
 	int i, j, min_idx, temp;
 	for (i = 0; i < n - 1; i++) { // (n - 1)번 반복
 		min_idx = i; // 미정렬 부분의 첫 번째 원소를 최솟값으로 지정

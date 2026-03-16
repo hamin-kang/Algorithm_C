@@ -10,7 +10,7 @@ int main(void) {
 	printf("정렬 전: ");
 	print_array(arr, n);
 
-	advanced_bubble_sort(arr, n);
+	insertion_sort(arr, n);
 	
 	printf("정렬 후: ");
 	print_array(arr, n);

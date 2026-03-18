@@ -132,6 +132,7 @@
     <ClCompile Include="insertion_sort.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="selection_sort.c" />
+    <ClCompile Include="shell_sort.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sort.h" />

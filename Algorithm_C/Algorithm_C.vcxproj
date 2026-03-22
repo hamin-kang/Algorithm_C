@@ -131,6 +131,7 @@
     <ClCompile Include="bubble_sort.c" />
     <ClCompile Include="insertion_sort.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="quick_sort.c" />
     <ClCompile Include="selection_sort.c" />
     <ClCompile Include="shell_sort.c" />
   </ItemGroup>

@@ -30,10 +30,3 @@ void quick_sort(int arr[], int low, int high) {
         quick_sort(arr, pivot_index + 1, high);
     }
 }
-
-void print_array(int arr[], int size) {
-    for (int i = 0; i < size; i++) {
-        printf("%d ", arr[i]);
-    }
-    printf("\n");
-}
